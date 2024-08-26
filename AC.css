@@ -1,0 +1,13 @@
+body{
+    margin: 2;
+    font-family: sans-serif;
+}
+
+summary{
+    padding: 16px;
+    cursor: pointer;
+}
+
+li{
+    border-radius: solid 5px;
+}
